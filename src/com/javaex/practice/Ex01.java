@@ -8,8 +8,10 @@ public class Ex01 {
 	 /*	(1) int
 		(2) float
 		(3) byte
-		(4) long	*/
-				
+		(4) long	
+		정답 : 2번 (float는 실수형)
+		
+		*/
 		
 		
 
